@@ -10,6 +10,7 @@
 				<div class="panel-body">
 					You are logged in, great work there!
 					you have definately got the hang of this!
+					this is a third line of code!
 				</div>
 			</div>
 		</div>
